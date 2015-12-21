@@ -1,0 +1,7 @@
+#edit-mode: -*- python -*-
+#coding:utf-8
+
+#set the search path of compiler comamnd
+COMPILER_PATH("/usr/bin")
+
+STATIC_LIBRARY('common', Sources("*.cpp"))
