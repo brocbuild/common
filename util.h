@@ -12,9 +12,9 @@
  * @brief 
  *  
  **/
-#ifndef COMMN_H
-#define COMMN_H
+#ifndef BROCBUILD_COMMN_UTIL_H
+#define BROCBUILD_COMMN_UTIL_H
 void help();
-#endif  // COMMN_H
+#endif  // BROCBUILD_COMMN_UTIL_H
 
 /* vim: set ts=4 sw=4 sts=4 tw=100 */
